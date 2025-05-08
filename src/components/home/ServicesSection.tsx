@@ -11,7 +11,7 @@ const computerPrograms = [
     modules: [
       "Coding Basics to Advance",
       "Java Programming",
-      "C++ Programming",c
+      "C++ Programming",
       "Go lang",
       "Python",
       "Web Development",
